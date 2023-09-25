@@ -19,6 +19,7 @@ Este proyecto consiste en obtener un par de Paneles de Control con los datos de 
 
 A partir de estos datos se van realizar dos paneles de control interactivo para la visualización de los datos mostrados. Estos paneles representarán un informe de Ingresos y otro informe de la Utilidad y el Margen.
 
+[Archivo Excel Original](https://github.com/ntr94/Dashboard_Finanzas/blob/main/Finanzas_Original.xlsx)
 
 ## Excel
 

@@ -36,3 +36,10 @@ A partir de estos datos se van realizar dos paneles de control interactivo para 
 <img src="Power BI/Informe_Utilidad_PowerBI.PNG" style="display: block; margin: auto;">
 
 [Archivo Power BI](https://github.com/ntr94/Dashboard_Finanzas/blob/main/Power%20BI/Informe_Finanzas_PowerBI.pbix)
+
+## Dashboard relacionados
+
+[Ventas](https://github.com/ntr94/Dashboard_Ventas)
+
+[Producción](https://github.com/ntr94/Dashboard_Produccion)
+
